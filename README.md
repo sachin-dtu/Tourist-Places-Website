@@ -1,6 +1,6 @@
 
 # **Tourist Places Website**
-* This is a website that provides information about popular tourist destinations around the world. You can visit the website by [clicking here](https://sachin-dtu.github.io/Tourists_Template/).
+* This is a website that provides information about popular tourist destinations around the world. You can visit the website by [clicking here](https://sachin-dtu.github.io/Tourist-Places-Website/).
 ![Tourist Places](https://github.com/sachin-dtu/Tourists_Template/blob/main/Touristjpg.jpg)
 
 ### **About the Website**
